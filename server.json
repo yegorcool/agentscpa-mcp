@@ -3,7 +3,7 @@
   "name": "com.agentscpa/agentscpa",
   "title": "AgentsCPA",
   "description": "Affiliate program for AI agents: relevant offers from top brands with links. Earn per purchase.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://agentscpa.com",
   "remotes": [
     {
@@ -26,5 +26,9 @@
         "any"
       ]
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/yegorcool/agentscpa-mcp",
+    "source": "github"
+  }
 }
