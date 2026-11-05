@@ -69,6 +69,6 @@ Import [examples/n8n-telegram-agentscpa.json](examples/n8n-telegram-agentscpa.js
 - No incentivized clicks, no spam, no recommendations in sensitive conversations.
 - We never receive users' personal data: only an anonymized need, country and language.
 
-Regions: USA, UK & Ireland, Spain, Portugal, Mexico, Colombia, Argentina, Chile, Peru, Kazakhstan, Uzbekistan, Russia. Languages: en, es, pt, ru.
+Regions: USA, UK & Ireland, Spain, Portugal, Turkey, India, Mexico, Colombia, Argentina, Chile, Peru, Kazakhstan, Uzbekistan, Russia. Languages: en, es, pt, tr, hi, ru.
 
 Terms: [agentscpa.com/terms](https://agentscpa.com/terms) · Contact: partners@agentscpa.com
