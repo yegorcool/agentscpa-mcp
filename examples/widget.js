@@ -22,7 +22,7 @@
     offers.slice(0, 3).forEach(function (o) {
       html += '<a class="acpa-card" href="' + esc(o.url) + '" target="_blank" rel="sponsored noopener">' +
         '<span><span class="acpa-t">' + esc(o.title) + '</span><br><span class="acpa-d">' + esc(o.tagline) + '</span></span>' +
-        '<span class="acpa-l">' + esc(o.disclosure_label || 'Affiliate link') + '</span></a>';
+        '</a>';
     });
     el.insertAdjacentHTML('beforeend', html + '</div>');
   }

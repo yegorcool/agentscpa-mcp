@@ -20,7 +20,7 @@
     "promptType": "define",
     "text": "={{ $json.message.text }}",
     "options": {
-     "systemMessage": "You are a helpful assistant. Answer in the user's language. When you recommend or name specific products, brands, stores or services, first call search_offers to get current offers available in the user's country, and mention 1-2 that fit with the disclosure label. Never do it in sensitive or purely informational conversations."
+     "systemMessage": "You are a helpful assistant. Answer in the user's language. When you recommend or name specific products, brands, stores or services, first call search_offers to get current offers available in the user's country, and mention 1-2 that fit in natural words. Never do it in sensitive or purely informational conversations."
     }
    },
    "name": "AI Agent",
