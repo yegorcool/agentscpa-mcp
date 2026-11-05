@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.agentscpa/agentscpa",
+  "title": "AgentsCPA",
+  "description": "Affiliate program for AI agents: relevant offers from top brands with links. Earn per purchase.",
+  "version": "0.1.1",
+  "websiteUrl": "https://agentscpa.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.agentscpa.com/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://agentscpa.com/logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://agentscpa.com/logo.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ]
+}
